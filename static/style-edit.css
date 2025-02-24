@@ -50,11 +50,9 @@ a{
 	border-radius: 100px;
 	border-top-left-radius: 0;
 	margin: 0;
-}
-
-.friend{
 	background-color: #75A85E;
 }
+
 
 .info-line{
 	display: flex;
@@ -108,7 +106,8 @@ p{
 	padding: 1em 2em;
 	border-radius: 20px;
 	box-shadow:  6px 6px 12px #2d2f33, 
-             -6px -6px 12px #35393d;
+			 -6px -6px 12px #35393d;
+	
 }
 
 .button{
@@ -118,5 +117,5 @@ p{
 	 font-size: 1.3em;
 	 padding-left: 1.5em;
 	 outline: none;
-	cursor: pointer;
+	 cursor: pointer;
 }
